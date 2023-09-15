@@ -37,6 +37,12 @@ Here are some of the key skills that define my professional journey:
   <img src="https://logos-download.com/wp-content/uploads/2016/10/Ansible_logo.png" alt="Ansible" width="120">
 </p>
 
+## Projects
+- **Continuous Delivery Pipeline for Node.js Web App on AWS Elastic Beanstalk**
+  [Link](https://github.com/arorae1/aws-elastic-beanstalk-express-js-sample)
+
+  **Description:** Deployed a Node.js web application on Elastic Beanstalk via AWS Codepipeline. Integrated Github as source and AWS CI/CD for pipeline execution.
+ 
 ## Certifications
 - AWS Certified Solutions Architect - Associate
 
@@ -44,8 +50,7 @@ Here are some of the key skills that define my professional journey:
 
 Currently, I'm focusing on:
 
-- AWS
-    
+- AWS    
 - DevOps projects
 
 Feel free to explore my repositories to learn more about my work!

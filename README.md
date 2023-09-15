@@ -1,5 +1,5 @@
 # ea-support-aws-devops
-Hello World! Welcome to my profile. 
+Hello Geeks! Welcome to my profile. 
 
 <!-- Add a stylish header -->
 <h1 align="center">

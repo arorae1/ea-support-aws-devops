@@ -42,8 +42,17 @@ Here are some of the key skills that define my professional journey:
   [Link](https://github.com/arorae1/aws-elastic-beanstalk-express-js-sample)
 
   **Description:** Deployed a Node.js web application on Elastic Beanstalk via AWS Codepipeline. Integrated Github as source and AWS CI/CD for pipeline execution.
- 
-## Certifications
+
+  **Skills Used:** AWS Elastic BeanStalk, AWS CI/CD, GitHub
+
+- **Simple Web-APP Deployment on AWS via IaC**
+  [Link](https://github.com/arorae1/terraform_2023_18_08/tree/main/clumsy_bird)
+
+  **Description:** Deployed a Simple Web Application named "My_Clumsy_Bird_App_Development_AWS" on the AWS Cloud using infrastructure as code.
+
+  **Skills Used:** Terraform, Shell Scripting, AWS
+
+ ## Certifications
 - AWS Certified Solutions Architect - Associate
 
 ## 🌱 What I'm Working On
